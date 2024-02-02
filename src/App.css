@@ -168,7 +168,7 @@
     background-image: url("https://images.unsplash.com/photo-1630921121767-81e86d066a5d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fG11c2hyb29tfGVufDB8fDB8fHww");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 800px;
+    height: 600px;
     background-position: center;
 }
 .mushroom-btn{
@@ -179,4 +179,35 @@
 .magic{
     color: #ffffff;
     font-size: 50px;
+}
+.texNAd{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 350px;
+}
+.howItWorks{
+    font-size: 55px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.getStart{
+    color: #ffffff;
+    font-size: 25px;
+}
+
+
+
+
+
+.worksCard{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.works{
+    margin-top: 80px;
+}
+.worksCard{
+    margin-top: 50px;
 }

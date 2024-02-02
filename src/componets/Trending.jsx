@@ -9,9 +9,6 @@ export default function Trending() {
     {Img:firstCard},
     {Img:secondCard},
     {Img:thirdCard},
-    {wallet:'https://media.istockphoto.com/id/917484660/photo/flat-lay-image-of-accessory-clothing-man-or-women-to-plan-travel-in-holiday-background-concept.jpg?s=2048x2048&w=is&k=20&c=QjZaNg6x8ykxkZWOmloy06fwoVWNqcwKpfpbbsJH4GI='},
-    {wallet:'https://media.istockphoto.com/id/1162417848/photo/credit-cards-in-wallet.jpg?s=612x612&w=0&k=20&c=l3fTPD_ymTsOkZL8gnkLShxKlFZJTRA3_ongVuDJRJM='},
-    {wallet:'https://media.istockphoto.com/id/917484660/photo/flat-lay-image-of-accessory-clothing-man-or-women-to-plan-travel-in-holiday-background-concept.jpg?s=2048x2048&w=is&k=20&c=QjZaNg6x8ykxkZWOmloy06fwoVWNqcwKpfpbbsJH4GI='},
   ])
   
 

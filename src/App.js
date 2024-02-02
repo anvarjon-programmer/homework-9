@@ -5,6 +5,7 @@ import Trending from './componets/Trending';
 import Users from './componets/Users';
 import Category from './componets/Category';
 import Discover from './componets/Discover';
+import Works from './componets/Works';
 
 function App() {
   // const [showContent,setSjowContent] = useState(true)
@@ -34,12 +35,15 @@ function App() {
     //     })
     //   }
     // </div>
-    <div className='bg-gray-900'>
+    <div className='bg-gray-900 '>
+      <div className='containerHero'>
       <Header/>
       <Trending/>
       <Users/>
       <Category/>
       <Discover/>
+      <Works/>
+      </div>
     </div>
   );
 }
