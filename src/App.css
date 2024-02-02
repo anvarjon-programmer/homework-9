@@ -261,3 +261,30 @@ input{
 input::placeholder{
     padding-left: 10px;
 }
+.pp{
+    list-style: none;
+    color: #ffffff;
+    font-size: 16px;
+}
+.ui{
+    margin: 20px 0;
+    max-width: 250px;
+}
+.footer-wraper{
+    display: flex;
+    justify-content: space-between;
+}
+.ranking{
+    margin: 10px 0;
+}
+.explore-title{
+    color: #ffffff;
+    font-size: 23px;
+    font-weight: 600;
+}
+.footer{
+    margin-top: 150px;
+}
+.footter{
+    background-color: #3B3B3B;
+}

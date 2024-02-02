@@ -13,7 +13,7 @@ export default function Works() {
         
     ])
   return (
-    <div className='.containerHero'>
+    <div className='containerHero'>
         <div className="works">
            <h2 className='howItWorks'>How it works</h2>
            <p className='
