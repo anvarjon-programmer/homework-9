@@ -6,6 +6,7 @@ import Users from './componets/Users';
 import Category from './componets/Category';
 import Discover from './componets/Discover';
 import Works from './componets/Works';
+import Cosmos from './componets/Cosmos';
 
 function App() {
   // const [showContent,setSjowContent] = useState(true)
@@ -43,6 +44,7 @@ function App() {
       <Category/>
       <Discover/>
       <Works/>
+      <Cosmos/>
       </div>
     </div>
   );

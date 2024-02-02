@@ -211,3 +211,53 @@
 .worksCard{
     margin-top: 50px;
 }
+.comos{
+    width: 100%;
+    height: 400px;
+    background-color: #3B3B3B;
+    border-radius: 20px;
+    margin-top: 90px;
+}
+.cosmoText{
+    max-width: 350px;
+}
+.cosmoWarper{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+.join{
+    font-size: 38px;
+    color: #ffffff;
+    font-weight: 600;
+}
+.update{
+    font-size: 22px;
+    color: #ffffff;
+    font-weight: 600;
+    margin-top: 12px;
+    margin-bottom: 20px;
+}
+form{
+    width: 100%;
+    height: 45px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+input{
+    border: none;
+    background: none;
+}
+.subcribe{
+    color: #ffffff;
+    background-color: #A259FF;
+    height: 100%;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+input::placeholder{
+    padding-left: 10px;
+}
