@@ -284,6 +284,8 @@ input::placeholder{
 }
 .footer{
     margin-top: 150px;
+    padding-top: 50px;
+    padding-bottom: 30px;
 }
 .footter{
     background-color: #3B3B3B;
